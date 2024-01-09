@@ -5,4 +5,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    a=s("codeschool")
+    return a
+print(("codeschool")[1:9])    
